@@ -1,0 +1,36 @@
+{
+  "name": "c",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-scripts": "1.1.4",
+    "semantic-ui-react": "^0.82.1",
+    "solc": "^0.4.24",
+    "truffle-hdwallet-provider": "0.0.3",
+    "web3": "^1.0.0-beta.35"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "main": "compile.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lzh5261/ether-smartContract-of-lotteryProgramDemo.git"
+  },
+  "keywords": [
+    "000"
+  ],
+  "author": "lzh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lzh5261/ether-smartContract-of-lotteryProgramDemo/issues"
+  },
+  "homepage": "https://github.com/lzh5261/ether-smartContract-of-lotteryProgramDemo#readme"
+}
